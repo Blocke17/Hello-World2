@@ -2,17 +2,7 @@
 
 echo "Hello World!"
 
------------------------
 
-Python3
-
-print("Hello World!")
-
------------------------
-
-
-
-------------------------
 
 package main
 import ("fmt")
@@ -23,8 +13,4 @@ func main() {
 
 ------------------------
 
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("Hello World");
-  }
-}
+
